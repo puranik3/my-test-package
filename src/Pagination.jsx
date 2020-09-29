@@ -25,7 +25,7 @@ class Pagination extends Component {
         onPageChange: PropTypes.func.isRequired,
         className: PropTypes.string
     };
-
+    
     static defaultProps = {
         pageSize: 10,
         onPageChange: () => {},

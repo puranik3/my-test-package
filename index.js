@@ -1,6 +1,6 @@
-import Alert from './src/Alert';
-import Pagination from './src/Pagination';
-import VotingWidget from './src/VotingWidget';
+import Alert from './dist/Alert';
+import Pagination from './dist/Pagination';
+import VotingWidget from './dist/VotingWidget';
 
 export {
     Alert,
