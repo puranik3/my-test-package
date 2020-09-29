@@ -1,0 +1,26 @@
+{
+    "name": "@digdeeper/workshops-app-react-utils",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/puranik3/workshops-app-react-utils.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/puranik3/workshops-app-react-utils/issues"
+    },
+    "homepage": "https://github.com/puranik3/workshops-app-react-utils#readme",
+    "peerDependencies": {
+        "@fortawesome/fontawesome-free": "^5.13.0",
+        "bootstrap": "^4.5.0",
+        "prop-types": "^15.7.2",
+        "react": "^16.13.1",
+        "styled-components": "^5.1.0"
+    }
+}
